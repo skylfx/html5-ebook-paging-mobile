@@ -11,7 +11,7 @@
 
 ## 应用截图
 
-![首页](https://raw.githubusercontent.com/hilanmiao/LanMiaoDesktop/master/assets/home.jpg)
+![首页](https://github.com/skylfx/html5-ebook-paging-mobile/blob/master/%E5%9B%BE%E7%89%8720190522100931140.jpeg)
 
 ## 开发说明
 
