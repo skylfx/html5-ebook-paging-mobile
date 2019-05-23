@@ -13,8 +13,8 @@
 
 ![首页](https://github.com/skylfx/html5-ebook-paging-mobile/blob/master/%E5%9B%BE%E7%89%8720190522100931140.jpeg)
 
+![首页](https://github.com/skylfx/html5-ebook-paging-mobile/blob/master/%E5%9B%BE%E7%89%8720190522100937334.jpeg)
 
-https://github.com/skylfx/html5-ebook-paging-mobile/blob/master/%E5%9B%BE%E7%89%8720190522100937334.jpeg
 
 ## 开发说明
 
